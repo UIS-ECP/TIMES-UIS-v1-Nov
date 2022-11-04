@@ -5,9 +5,12 @@ BASE:Demanda BAU: Blending es variable hasta 10p (BAU_Ble_Var_10p)
 
 
 Scenarios Guardados (RS):
- Demand_INF
- BAU_Ble_Fix_10p
- BAU_Ble_Var_15p
- BAU_Ble_Fix_15p
 
+ BASE (BAU_Ble_Var_10p) OK
+
+ BAU_Ble_Fix_10p OK
+ BAU_Ble_Var_15p OK
+ BAU_Ble_Fix_15p OK
+
+ INF_Demand (Ble_Var_10p)
 
