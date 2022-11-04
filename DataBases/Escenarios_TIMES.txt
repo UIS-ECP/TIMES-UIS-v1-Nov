@@ -1,0 +1,13 @@
+4 de Noviembre:
+
+
+BASE:Demanda BAU: Blending es variable hasta 10p (BAU_Ble_Var_10p)
+
+
+Scenarios Guardados (RS):
+ Demand_INF
+ BAU_Ble_Fix_10p
+ BAU_Ble_Var_15p
+ BAU_Ble_Fix_15p
+
+
