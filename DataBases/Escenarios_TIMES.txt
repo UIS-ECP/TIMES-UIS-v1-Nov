@@ -16,3 +16,9 @@ Scenarios Guardados (RS):
  INF_Ble_Fix_10p
  INF_Ble_Fix_15p
  INF_Ble_Var_15p
+
+
+ Base ------------- Prices_R5
+ Prices_R10
+ Prices_HighOil_R5
+ Prices_LowOil_R5
