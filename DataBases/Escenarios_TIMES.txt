@@ -22,3 +22,5 @@ Scenarios Guardados (RS):
  Prices_R10
  Prices_HighOil_R5
  Prices_LowOil_R5
+
+*R indica la relación entre importación y exportación
